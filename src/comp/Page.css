@@ -1,0 +1,11 @@
+.pages {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+.pagebox {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding: 0.3rem;
+}

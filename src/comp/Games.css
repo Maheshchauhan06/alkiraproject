@@ -1,0 +1,31 @@
+.title {
+  width: 100%;
+  font-size: 1.7rem;
+  font-weight: 700;
+  padding: 1rem;
+}
+.title:hover {
+  background: rgba(0, 0, 0, 0.322);
+}
+
+/*  add*/
+
+.home_team {
+  display: flex;
+  padding: 1rem;
+  gap: 2rem;
+  font-size: 1.2rem;
+  font-weight: 600;
+  padding-right: 3rem;
+}
+
+.detail {
+  display: flex;
+  flex-direction: column;
+  gap: 1.4rem;
+}
+
+.heading {
+  font-size: 1.5rem;
+  padding: 1rem;
+}
